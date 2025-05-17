@@ -1,4 +1,4 @@
-# Système de Prédiction d'Activité des Pollinisateurs
+# Système de Prédiction d'Activité des Pollinisateurs De Ryan Shams Mouktar Houssen & Hayat Meghlat M1 TI UPPA
 
 Ce projet développe un système d'intelligence artificielle pour prédire l'activité des pollinisateurs basé sur des données météorologiques et des périodes de floraison.
 
